@@ -21,7 +21,6 @@ int biggest;
 
   else {biggest = swhole;}
   cout <<"Of those two numbers, the biggest is: " << biggest << std::endl;
-  cout <<"--------\n";
   cout << endl <<"Thank you for playing.\n";
 
   return 0;
